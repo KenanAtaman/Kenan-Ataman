@@ -1,2 +1,4 @@
 # Kenan-Ataman
-My personal repository
+Hi There,
+I am studying Computer Science at Bilkent University
+
